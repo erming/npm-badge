@@ -1,6 +1,6 @@
 {
   "name": "npm-badge",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Add NPM badges to your README files",
   "main": "README.md",
   "repository": {
