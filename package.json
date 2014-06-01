@@ -1,14 +1,14 @@
 {
   "name": "npm-badge",
-  "version": "0.1.0",
-  "description": "Add badges to your README files",
+  "version": "0.1.2",
+  "description": "Add NPM badges to your README files",
   "main": "README.md",
-  "homepage": "https://github.com/erming/npm-badge",
   "repository": {
     "type": "git",
     "url": "http://github.com/erming/npm-badge"
   },
   "keywords": [
+		"npm",
     "badges",
     "readme",
     "github"
