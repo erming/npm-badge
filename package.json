@@ -1,7 +1,7 @@
 {
   "name": "npm-badge",
-  "version": "0.2.0",
-  "description": "Add NPM badges to your README files",
+  "version": "1.0.0",
+  "description": "Add badges to your GitHub readme",
   "main": "README.md",
   "repository": {
     "type": "git",
@@ -11,7 +11,8 @@
     "npm",
     "badges",
     "readme",
-    "github"
+    "github",
+    "markdown"
   ],
   "author": "Mattias Erming",
   "license": "MIT"
