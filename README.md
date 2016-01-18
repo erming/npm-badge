@@ -4,11 +4,12 @@
 
 ## Badges
 
-### Basic
+### Default
 
 [![NPM](https://nodei.co/npm/npm-badge.png)](https://npmjs.org/package/npm-badge)
 
-__Usage:__  
+##### Usage
+
 Copy this snippet to your README files:
 
 ```
@@ -32,6 +33,7 @@ Append `?compact=true`
 [![NPM](https://nodei.co/npm/npm-badge.png?mini=true)](https://npmjs.org/package/npm-badge)
 
 Append `?mini=true`
+
 
 ```
 [![NPM](https://nodei.co/npm/<package>.png?mini=true)](https://npmjs.org/package/<package>)
